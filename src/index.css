@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "DM Sans";
+  src: url("/fonts/DMSans-VariableFont_opsz,wght.ttf") format("truetype");
+  font-weight: 400 500;
+  font-style: normal italic;
+  font-display: swap;
+}
+
+@import "tailwindcss";
+
+@theme {
+  /* Default Base Font Size */
+  --text-base: 18px;
+
+  /* Fonts */
+  --font-sans: "DM Sans", sans-serif;
+  --font-serif: "DM Sans", sans-serif;
+  --font-mono: "DM Sans", sans-serif;
+
+  /* Colors */
+  --color-primary-bg: hsl(0, 0%, 96%);
+  --color-primary-purple: hsl(256, 67%, 59%);
+  --color-secondary-purple: hsl(254, 88%, 90%);
+
+  --color-primary-yellow: hsl(39, 100%, 71%);
+  --color-secondary-yellow: hsl(31, 66%, 93%);
+
+  --color-white: hsl(0, 0%, 100%);
+  --color-black: hsl(0, 0%, 7%);
+}
