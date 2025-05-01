@@ -15,7 +15,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [FEM-Bento Grid Solution](https://github.com/mattdavis06/fem-bento-grid-solution)
-- Live Site URL: [bento-grid-solution](https://fem-bento-grid-solution.netlify.app/)
+- Live Site URL: [bento-grid-solution](https://fem-bento-grid-solution.netlify.app)
 
 ### Built with
 
